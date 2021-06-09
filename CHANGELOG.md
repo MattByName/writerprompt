@@ -6,10 +6,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## __Unreleased__
-- Multiple genre settings without having to change the files
+- Multiple genre settings without having to hardcode
 - Internet hosted prompts
 - Custom prompt numbers
 - Output formatting
+- Definition option
+- Categorise words
 
 ## _v0.1.2_ - 2021/06/9
 
