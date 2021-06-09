@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 import random
 
-GENRE_FILE = 'scifi-genre.txt'
-PROMPT_FILE = 'scifi-words.txt'
+DATALOC = '/etc/writerprompt'
+GENRE_FILE = '{}/writerprompt-scifi-genre.txt'.format(DATALOC)
+PROMPT_FILE = '{}/writerprompt-scifi-words.txt'.format(DATALOC)
 
 def get_random_line_from_text_file(filename):
     f = open(filename,'r')
