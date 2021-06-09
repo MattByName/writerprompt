@@ -102,3 +102,7 @@ waldo
 wetware
 Whuffie
 xenology
+Slipstream
+Immortality
+Galactic Empire
+Generation Ship
