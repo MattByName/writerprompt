@@ -8,10 +8,7 @@ Comedy
 Cyberpunk
 Dying Earth
 Dystopia
-Galactic Empire
-Generation Ship
 Hard Science Fiction
-Immortality
 Lost Worlds
 Military
 Mind Transfer
@@ -21,7 +18,6 @@ Nanopunk
 Robots/A.I.
 Science Fantasy
 Science Horror
-Slipstream
 Soft Science Fiction
 Space Exploration
 Space Opera
@@ -29,4 +25,3 @@ SpyFi
 Steampunk
 Time Travel
 Utopia
-Young Adult
