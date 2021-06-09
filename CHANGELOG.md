@@ -11,6 +11,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Custom prompt numbers
 - Output formatting
 
+## _v0.1.2_ - 2021/06/9
+
+### Added
+- Install script
+- Uninstall script
+
+### Changed
+- Script now looks for the word textfiles in /etc/writerprompt
+- Filenames of textfiles now have prefix of 'writerprompt'
+
+### Deprecated
+- Looking for the text files in the relative path
+
+### Removed
+- None
+
+### Fixed
+- None
+
+### Security
+- None
+
+
 ## __v0.1.1__ - 2021-06-09
 ### Added
 - Added readme
