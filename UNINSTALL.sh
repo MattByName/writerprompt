@@ -4,5 +4,5 @@ DATALOC=/etc/writerprompt
 mkdir -p $BINLOC
 mkdir -p $DATALOC
 
-rm $BINLOC/writerprompt
+rm $BINLOC/writerprompt.py
 rm -r $DATALOC
